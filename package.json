@@ -1,0 +1,9 @@
+{
+  "name": "searchengineScrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  }
+}

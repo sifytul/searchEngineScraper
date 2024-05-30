@@ -1,7 +1,5 @@
 # searchEngineSraper
 
-// write a instruction to copy, install with yarn and run
-
 # Clone the repository
 
 ```
